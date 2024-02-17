@@ -6,7 +6,7 @@
 ### :man_technologist: About Me:
 
 Hi there 👋
-Currently a student, studying front-end development and interested in back-end.
+Currently a 4-th year student combining work as a full-stack developer
 
 Here are some ideas to get you started:
 
