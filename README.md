@@ -6,7 +6,7 @@
 ### :man_technologist: About Me:
 
 Hi there 👋
-Currently a 4-th year student combining work as a full-stack developer
+Currently a full-stack developer
 
 Here are some ideas to get you started:
 
